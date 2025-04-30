@@ -4,11 +4,15 @@
   The Student Report Generation API is a robust and scalable solution designed to generate student reports in various formats (PDF, Excel, JSON). This API is built using ASP.NET Core and targets .NET 8. It leverages Entity Framework Core for data access and includes a well-structured service layer to handle business logic. The project is designed with extensibility and maintainability in mind, making it easy to add new features or modify existing ones.
 
 ## Features
-• Clean Architecture: Ensures scalability, maintainability, and separation of concerns by structuring the project into distinct layers (Domain, Application, Infrastructure).
-• Dynamic Reporting: Generate detailed, real-time reports for schools, grades, classes, and students.
-• Export Flexibility: Supports multiple formats like JSON, PDF, and Excel for seamless data sharing.
-• Optimized Performance: Leveraging stored procedures and efficient database queries for lightning-fast results.
-• Scalable Architecture: Built on .NET 8 and C# 12, ensuring modern, robust, and future-proof development.
+  • Clean Architecture: Ensures scalability, maintainability, and separation of concerns by structuring the project into distinct layers (Domain, Application, Infrastructure).
+ 
+  • Dynamic Reporting: Generate detailed, real-time reports for schools, grades, classes, and students.
+  
+  • Export Flexibility: Supports multiple formats like JSON, PDF, and Excel for seamless data sharing.
+  
+  • Optimized Performance: Leveraging stored procedures and efficient database queries for lightning-fast results.
+  
+  • Scalable Architecture: Built on .NET 8 and C# 12, ensuring modern, robust, and future-proof development.
 
 ## Project Structure
 ReportTask/
